@@ -1,0 +1,26 @@
+{
+    "posts": [
+        {
+            "path": "/index.md",
+            "title": "首页"
+        },
+        {
+            "path": "/Vue",
+            "disabled": true,
+            "children": [
+                {
+                    "path": "/Vue/README.md"
+                }
+            ],
+            "custome_disabled": false,
+            "is_folder": true
+        },
+        {
+            "path": "/React",
+            "disabled": true,
+            "children": [],
+            "custome_disabled": false,
+            "is_folder": true
+        }
+    ]
+}
