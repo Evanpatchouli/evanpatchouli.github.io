@@ -10,6 +10,9 @@
             "children": [
                 {
                     "path": "/Vue/README.md"
+                },
+                {
+                    "path": "/Vue/项目结构.md"
                 }
             ],
             "custome_disabled": false,
@@ -17,6 +20,27 @@
         },
         {
             "path": "/React",
+            "disabled": true,
+            "children": [],
+            "custome_disabled": false,
+            "is_folder": true
+        },
+        {
+            "path": "/Vite",
+            "disabled": true,
+            "children": [],
+            "custome_disabled": false,
+            "is_folder": true
+        },
+        {
+            "path": "/Tauri",
+            "disabled": true,
+            "children": [],
+            "custome_disabled": false,
+            "is_folder": true
+        },
+        {
+            "path": "/NodeJS",
             "disabled": true,
             "children": [],
             "custome_disabled": false,

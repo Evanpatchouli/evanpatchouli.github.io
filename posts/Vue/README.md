@@ -12,16 +12,23 @@ Vue 3 引入了许多新特性和改进，包括：
 - **Suspense**：一种新的组件，用于处理异步组件的加载状态。
 - **更好的 TypeScript 支持**：Vue 3 对 TypeScript 的支持得到了显著改进，使得在 Vue 项目中使用 TypeScript 更加方便。
 
-## Vue 3 的安装
+## Vue 3 项目创建
 
-Vue 3 可以通过 npm 或 yarn 安装。在命令行中运行以下命令：
+可以通过 Vite 创建，在命令行中运行以下命令：
 
 ```bash
-npm install vue@next
+npm create vite@latest
 ```
 
-或
+创建完后，进入项目目录并安装依赖：
 
 ```bash
-yarn add vue@next
+cd my-vue-app
+npm install
+```
+
+然后，启动开发服务器：
+
+```bash
+npm run dev
 ```
