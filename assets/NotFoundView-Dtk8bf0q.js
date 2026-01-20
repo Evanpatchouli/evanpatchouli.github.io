@@ -1,1 +1,0 @@
-import{_ as n,c as t,a as o,o as s}from"./index-D0vecmdG.js";const a={},c={class:"not-found"};function d(r,e){return s(),t("div",c,[...e[0]||(e[0]=[o("h1",null,"404",-1),o("p",null,"Page not found",-1)])])}const l=n(a,[["render",d],["__scopeId","data-v-4e44acdd"]]);export{l as default};
